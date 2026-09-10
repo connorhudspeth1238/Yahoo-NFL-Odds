@@ -1,1 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yahoo NFL Scoreboard & Odds</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900 min-h-screen p-6">
+    <div class="max-w-[1600px] mx-auto">
+        <h1 class="text-2xl font-black tracking-wider mb-6 text-slate-900">YAHOO NFL SCOREBOARD</h1>
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <p class="text-slate-500 text-sm">Loading scores...</p>
+        </div>
+    </div>
 
+    <script>
+        async function loadScores() {
+            try {
+                const response = await fetch('games.json');
+                const games = await response.json();
+                const grid = document.getElementById('grid');
+                grid.innerHTML = '';
+
+                if (games.length === 0) {
+                    grid.innerHTML = `<p class="text-slate-500 text-sm">No games found.</p>`;
+                    return;
+                }
+
+                games.forEach(game => {
+                    const card = document.createElement('div');
+                    card.className = "bg-white text-slate-900 border border-slate-200 rounded-lg p-3.5 shadow-sm hover:shadow transition flex flex-col justify-between text-xs";
+                    
+                    const renderTeamRow = (team) => `
+                        <div class="flex justify-between items-center">
+                            <div class="flex items-center space-x-2.5 overflow-hidden">
+                                <img src="${team.logo || ''}" class="w-6 h-6 object-contain shrink-0" alt="" />
+                                <div class="truncate">
+                                    <div class="flex items-center space-x-1 font-bold text-slate-900 text-sm truncate">
+                                        <span class="truncate">${team.name}</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-sm font-bold shrink-0 ml-2">
+                                ${game.status === 'UPCOMING' ? (team.record || '') : (team.score || team.record || '')}
+                            </div>
+                        </div>
+                    `;
+
+                    card.innerHTML = `
+                        <div>
+                            <!-- Datetime header -->
+                            <div class="flex justify-end font-semibold text-slate-700 mb-3 text-[11px]">
+                                <span>${game.datetime || ''}</span>
+                            </div>
+
+                            <!-- Teams Block -->
+                            <div class="space-y-3 mb-4">
+                                ${renderTeamRow(game.awayTeam)}
+                                ${renderTeamRow(game.homeTeam)}
+                            </div>
+                        </div>
+
+                        <!-- Footer Details (Odds & TV) -->
+                        <div class="border-t border-slate-100 pt-2.5 mt-1 flex justify-between items-center text-[11px] font-medium text-slate-600">
+                            <span class="truncate mr-1">${game.odds ? `Odds: ${game.odds}` : ''}</span>
+                            <span class="shrink-0">${game.tv ? `TV: ${game.tv}` : ''}</span>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+            } catch (err) {
+                console.error("Could not load games.json", err);
+                document.getElementById('grid').innerHTML = `<p class="text-red-500 text-sm">Failed to load games data.</p>`;
+            }
+        }
+
+        loadScores();
+    </script>
+</body>
+</html>
