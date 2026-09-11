@@ -90,7 +90,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -4.5, O/U 41.5",
+    "odds": "PIT -5.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -3, O/U 47",
+    "odds": "CHI -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -1.5, O/U 44.5",
+    "odds": "BUF -1.5, O/U 45",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun 9/13, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "LV -3.5, O/U 40.5",
+    "odds": "LV -3, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun 9/13, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -2.5, O/U 48.5",
+    "odds": "DAL -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
