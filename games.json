@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 9/10, 7:35 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LAR -3.5, O/U 47.5",
+    "odds": "Netflix",
     "tv": "",
     "awayTeam": {
       "name": "49ers",
       "mascot": "",
       "rank": "",
-      "record": "0-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Rams",
       "mascot": "",
       "rank": "",
-      "record": "0-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nmMTytbmGAmFam2gChV7fQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260413/500px/Rams.png.cf.webp"
     }
