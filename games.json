@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "",
-    "status": "UPCOMING",
-    "odds": "Netflix",
-    "tv": "",
-    "awayTeam": {
-      "name": "49ers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Rams",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/nmMTytbmGAmFam2gChV7fQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260413/500px/Rams.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 50.5",
@@ -156,7 +134,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -8.5, O/U 40",
+    "odds": "JAX -8.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Browns",
@@ -349,6 +327,28 @@
       "record": "1-0",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
+    "odds": "SF +3.5, U 47.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "49ers",
+      "mascot": "",
+      "rank": "",
+      "record": "1-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Rams",
+      "mascot": "",
+      "rank": "",
+      "record": "0-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/nmMTytbmGAmFam2gChV7fQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260413/500px/Rams.png.cf.webp"
     }
   }
 ]
