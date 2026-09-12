@@ -68,7 +68,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -3.5, O/U 48",
+    "odds": "BAL -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -6, O/U 41.5",
+    "odds": "PIT -6, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -1.5, O/U 45",
+    "odds": "BUF -1.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
