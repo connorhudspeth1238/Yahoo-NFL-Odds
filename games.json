@@ -1,28 +1,6 @@
 [
   {
     "datetime": "",
-    "status": "LIVE",
-    "odds": "DET -6.5, O/U 51.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Saints",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/gsJbYQm7ziD8SU6t3iOicA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/Saints_dbg_500.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Lions",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "",
     "status": "UPCOMING",
     "odds": "FOX",
     "tv": "",
@@ -90,7 +68,7 @@
   {
     "datetime": "",
     "status": "UPCOMING",
-    "odds": "LAC -7.5, O/U 52",
+    "odds": "CBS",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -112,7 +90,7 @@
   {
     "datetime": "Sun, 9/13, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -3.0, O/U 47.5",
+    "odds": "DAL -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
@@ -151,50 +129,6 @@
       "record": "0-0",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "",
-    "status": "FINAL",
-    "odds": "CHI -3, O 47.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Bears",
-      "mascot": "",
-      "rank": "",
-      "record": "0-0",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Panthers",
-      "mascot": "",
-      "rank": "",
-      "record": "0-0",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "",
-    "status": "FINAL",
-    "odds": "BUF -1.5, O 44.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Bills",
-      "mascot": "",
-      "rank": "",
-      "record": "1-0",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/3ARwJ.lDG9BpEALt3jc4yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BUF.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Texans",
-      "mascot": "",
-      "rank": "",
-      "record": "0-1",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
     }
   },
   {
@@ -266,6 +200,28 @@
   {
     "datetime": "",
     "status": "FINAL",
+    "odds": "NO +7, O 49.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Saints",
+      "mascot": "",
+      "rank": "",
+      "record": "0-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/gsJbYQm7ziD8SU6t3iOicA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/Saints_dbg_500.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Lions",
+      "mascot": "",
+      "rank": "",
+      "record": "1-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
     "odds": "NYJ +1.5, U 39.5",
     "tv": "",
     "awayTeam": {
@@ -332,6 +288,28 @@
   {
     "datetime": "",
     "status": "FINAL",
+    "odds": "CHI -3, O 47.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Bears",
+      "mascot": "",
+      "rank": "",
+      "record": "1-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Panthers",
+      "mascot": "",
+      "rank": "",
+      "record": "0-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
     "odds": "JAX -8.5, O 40.5",
     "tv": "",
     "awayTeam": {
@@ -349,6 +327,28 @@
       "record": "1-0",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/kHCRaP_q0PnpoWoedSz_PQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_JAX.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
+    "odds": "BUF -1.5, O 44.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Bills",
+      "mascot": "",
+      "rank": "",
+      "record": "1-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/3ARwJ.lDG9BpEALt3jc4yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BUF.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Texans",
+      "mascot": "",
+      "rank": "",
+      "record": "0-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
     }
   }
 ]
