@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -3.5, O/U 47.5",
+    "odds": "BAL -3, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 9/13, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -8.5, O/U 40",
+    "odds": "JAX -8.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Browns",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 9/13, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "PHI -5.5, O/U 44.5",
+    "odds": "PHI -6, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 9/13, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -3, O/U 48.5",
+    "odds": "DAL -3, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
