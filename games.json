@@ -1,7 +1,7 @@
 [
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "LIVE",
     "odds": "NE +3.5, U 44.5",
     "tv": "",
     "awayTeam": {
@@ -23,7 +23,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "SF +3.5, U 47.5",
     "tv": "",
     "awayTeam": {
@@ -45,7 +45,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "CIN -3.5, O 50.5",
     "tv": "",
     "awayTeam": {
@@ -67,7 +67,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "NO +7, O 49.5",
     "tv": "",
     "awayTeam": {
@@ -89,7 +89,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "NYJ +1.5, U 39.5",
     "tv": "",
     "awayTeam": {
@@ -111,7 +111,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "BAL -3, O 48.5",
     "tv": "",
     "awayTeam": {
@@ -133,7 +133,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "PIT -6.5, U 40.5",
     "tv": "",
     "awayTeam": {
@@ -155,7 +155,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "CHI -3, O 47.5",
     "tv": "",
     "awayTeam": {
@@ -177,7 +177,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "JAX -8.5, O 40.5",
     "tv": "",
     "awayTeam": {
@@ -199,7 +199,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "BUF -1.5, O 44.5",
     "tv": "",
     "awayTeam": {
@@ -221,7 +221,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "LV -3, U 40.5",
     "tv": "",
     "awayTeam": {
@@ -243,7 +243,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "MIN -2.5, O 45.5",
     "tv": "",
     "awayTeam": {
@@ -265,7 +265,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "WAS +6, O 44",
     "tv": "",
     "awayTeam": {
@@ -287,7 +287,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "ARI +9.5, U 47.5",
     "tv": "",
     "awayTeam": {
@@ -309,7 +309,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "NYG +3, O 47.5",
     "tv": "",
     "awayTeam": {
@@ -331,7 +331,7 @@
   },
   {
     "datetime": "",
-    "status": "FINAL",
+    "status": "UPCOMING",
     "odds": "KC -2.5, U 42.5",
     "tv": "",
     "awayTeam": {
