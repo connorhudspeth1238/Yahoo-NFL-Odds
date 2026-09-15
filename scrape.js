@@ -18,7 +18,7 @@ async function scrapeYahooScores() {
 
         console.log("Navigating to Yahoo NFL Sports Scoreboard...");
         await page.goto('https://sports.yahoo.com/nfl/scoreboard/', { 
-            waitUntil: 'networkidle2',
+            waitUntil: 'domcontentloaded',
             timeout: 60000 
         });
 
