@@ -25,6 +25,10 @@ async function scrapeYahooScores() {
         console.log("Waiting for game cards to load...");
         await page.waitForSelector('div[id^="nfl.g."]', { timeout: 15000 });
 
+        // Give Yahoo's dynamic JS a brief moment to populate dates, times, and odds into the DOM
+        console.log("Waiting for metadata elements to render...");
+        await new Promise(resolve => setTimeout(resolve, 3000));
+
         console.log("Extracting game cards...");
         const games = await page.evaluate(() => {
             const gameCards = document.querySelectorAll('div[id^="nfl.g."]');
