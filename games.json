@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Mon, 9/14, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KC -2.5, O/U 42.5",
+    "odds": "ABC/ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
       "mascot": "",
       "rank": "",
-      "record": "0-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Chiefs",
       "mascot": "",
       "rank": "",
-      "record": "0-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
     }
