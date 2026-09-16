@@ -2,7 +2,7 @@
   {
     "datetime": "Thu 9/17, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -4.5, O/U 54.5",
+    "odds": "BUF -5, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun 9/20, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -4.5, O/U 41.5",
+    "odds": "NE -5.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -4, O/U 40.5",
+    "odds": "SEA -4, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -332,7 +332,7 @@
   {
     "datetime": "Mon 9/21, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -7.5, O/U 47.5",
+    "odds": "LAR -7.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
