@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/17, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -5.5, O/U 54.5",
+    "odds": "BUF -5.5, O/U 55",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun 9/20, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -4.5, O/U 48.5",
+    "odds": "CHI -4.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun 9/20, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -2.5, O/U 46.5",
+    "odds": "HOU -2.5, O/U 46",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -4, O/U 50.5",
+    "odds": "DAL -4.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -13.5, O/U 45",
+    "odds": "SF -13.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
