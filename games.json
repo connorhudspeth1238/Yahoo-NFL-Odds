@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 9/17, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BUF -5.5, O/U 54.5",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
       "mascot": "",
       "rank": "",
-      "record": "1-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Bills",
       "mascot": "",
       "rank": "",
-      "record": "1-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3ARwJ.lDG9BpEALt3jc4yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BUF.png.cf.webp"
     }
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -4.5, O/U 50.5",
+    "odds": "DAL -4, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
