@@ -244,7 +244,7 @@
   {
     "datetime": "Sat, 9/19, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -4, O/U 40.5",
+    "odds": "SEA -3.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sat, 9/19, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -13.5, O/U 45",
+    "odds": "SF -13.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sat, 9/19, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -6.5, O/U 46.5",
+    "odds": "KC -6, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sat, 9/19, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -7.5, O/U 48.5",
+    "odds": "LAR -7, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
