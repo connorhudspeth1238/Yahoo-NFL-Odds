@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 9/20, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -2.5, O/U 45.5",
+    "odds": "DEN -3, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Jaguars",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -4, O/U 51",
+    "odds": "DAL -4, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun, 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -4, O/U 41",
+    "odds": "SEA -4, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 9/20, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -13.5, O/U 44.5",
+    "odds": "SF -13.5, O/U 45",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
