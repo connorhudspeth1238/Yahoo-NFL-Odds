@@ -68,7 +68,7 @@
   {
     "datetime": "Sat, 9/19, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -5.5, O/U 41.5",
+    "odds": "NE -5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sat, 9/19, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -8.5, O/U 46.5",
+    "odds": "BAL -8.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Saints",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sat, 9/19, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -4, O/U 50.5",
+    "odds": "DAL -4, O/U 51",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
