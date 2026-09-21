@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Sun, 9/20, 7:20 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KC -6, O/U 45.5",
+    "odds": "NBC/Peacock",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
       "mascot": "",
       "rank": "",
-      "record": "0-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
     },
@@ -16,53 +16,9 @@
       "name": "Chiefs",
       "mascot": "",
       "rank": "",
-      "record": "1-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "",
-    "status": "FINAL",
-    "odds": "DAL -4.5, O 51.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Commanders",
-      "mascot": "",
-      "rank": "",
-      "record": "0-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Cowboys",
-      "mascot": "",
-      "rank": "",
-      "record": "1-1",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "",
-    "status": "FINAL",
-    "odds": "SEA -4, U 41.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Seahawks",
-      "mascot": "",
-      "rank": "",
-      "record": "2-0",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Cardinals",
-      "mascot": "",
-      "rank": "",
-      "record": "1-1",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Z3OwLYkauWGVlXFReACMSg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20230503/500x500/ari.png.cf.webp"
     }
   },
   {
@@ -283,6 +239,50 @@
       "record": "0-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JP83BPz0bBa81h1pSnRD2g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/chargers.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
+    "odds": "DAL -4.5, O 51.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Commanders",
+      "mascot": "",
+      "rank": "",
+      "record": "0-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Cowboys",
+      "mascot": "",
+      "rank": "",
+      "record": "1-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
+    "odds": "SEA -4, U 41.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Seahawks",
+      "mascot": "",
+      "rank": "",
+      "record": "2-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Cardinals",
+      "mascot": "",
+      "rank": "",
+      "record": "1-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Z3OwLYkauWGVlXFReACMSg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20230503/500x500/ari.png.cf.webp"
     }
   },
   {
