@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Mon, 9/21, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LAR -6.5, O/U 47.5",
+    "odds": "ABC/ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
       "mascot": "",
       "rank": "",
-      "record": "1-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/6sTwCtSNlM_TNIjC41uFRQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/NYG-2025dbg.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Rams",
       "mascot": "",
       "rank": "",
-      "record": "0-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nmMTytbmGAmFam2gChV7fQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260413/500px/Rams.png.cf.webp"
     }
