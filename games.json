@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/24, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -5.5, O/U 43.5",
+    "odds": "GB -5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -3, O/U 42.5",
+    "odds": "HOU -2.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -11.5, O/U 46.5",
+    "odds": "KC -11, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "JAX -3, O/U 45.5",
+    "odds": "JAX -2.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 9/27, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -8.5, O/U 48",
+    "odds": "SF -8.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3, O/U 44",
+    "odds": "NO -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
