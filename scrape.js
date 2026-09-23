@@ -25,7 +25,7 @@ async function scrapeYahooScores() {
         console.log("Waiting for game cards to load...");
         await page.waitForSelector('div[id^="nfl.g."]', { timeout: 15000 });
 
-        // Give Yahoo's dynamic JS a brief moment to populate dates, times, and odds into the DOM
+        // Give Yahoo's dynamic JS a brief moment to populate times, and odds into the DOM
         console.log("Waiting for metadata elements to render...");
         await new Promise(resolve => setTimeout(resolve, 3000));
 
@@ -41,10 +41,45 @@ async function scrapeYahooScores() {
                 const teamContainers = card.querySelectorAll('div._ys_1gde6sj');
                 if (teamContainers.length < 2) return;
 
-                // Extract date, time, and broadcast channel from metadata elements
+                // Extract date string from grouped section headers safely by walking up/back in DOM
+                let rawDate = '';
+                let node = card;
+                while (node && !rawDate) {
+                    let prev = node.previousElementSibling;
+                    while (prev && !rawDate) {
+                        const text = prev.innerText.trim();
+                        if (text && /^(MON|TUE|WED|THU|FRI|SAT|SUN)/i.test(text) && /\d{4}|JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC/i.test(text)) {
+                            rawDate = text.split('\n')[0].trim();
+                        }
+                        prev = prev.previousElementSibling;
+                    }
+                    node = node.parentElement;
+                }
+
+                // Convert "Thu, September 24, 2026" into "Thu, 9/24" format
+                let formattedDate = '';
+                if (rawDate) {
+                    try {
+                        const parts = rawDate.split(',');
+                        const dayOfWeek = parts[0].trim(); // e.g. "Thu"
+                        const cleanDateStr = parts.slice(1).join(',').replace(/,\s*\d{4}/, '').trim(); // e.g. "September 24"
+                        
+                        const parsedDate = new Date(cleanDateStr + ' 2026');
+                        if (!isNaN(parsedDate)) {
+                            const month = parsedDate.getMonth() + 1;
+                            const day = parsedDate.getDate();
+                            formattedDate = `${dayOfWeek}, ${month}/${day}`;
+                        } else {
+                            formattedDate = rawDate;
+                        }
+                    } catch (e) {
+                        formattedDate = rawDate;
+                    }
+                }
+
+                // Extract time and broadcast channel from metadata elements
                 const metaElements = card.querySelectorAll('._ys_qoenog, ._ys_aug67i');
                 let rawTime = '';
-                let rawDate = '';
                 let broadcastChannel = '';
 
                 metaElements.forEach(el => {
@@ -57,21 +92,19 @@ async function scrapeYahooScores() {
 
                     if ((text.includes(':') || lower.includes('pm') || lower.includes('am')) && !lower.includes('thu') && !lower.includes('fri') && !lower.includes('sat') && !lower.includes('sun')) {
                         rawTime = text;
-                    } else if (text.includes('/') || lower.includes('thu') || lower.includes('fri') || lower.includes('sat') || lower.includes('sun') || lower.includes('mon') || lower.includes('tue') || lower.includes('wed')) {
-                        rawDate = text;
                     } else if (text.length > 0 && text.length <= 6 && text === text.toUpperCase() && !text.includes('-') && !text.includes('/')) {
                         broadcastChannel = text;
                     }
                 });
 
-                // Fallback: If rawDate is missing, grab today's date in Central Time
-                if (!rawDate && rawTime) {
-                    const options = { timeZone: 'America/Chicago', weekday: 'short', month: 'numeric', day: 'numeric' };
-                    rawDate = new Intl.DateTimeFormat('en-US', options).format(new Date());
+                // Fallback: If formattedDate is missing, grab today's date
+                if (!formattedDate && rawTime) {
+                    const now = new Date();
+                    formattedDate = `${now.toLocaleDateString('en-US', { weekday: 'short' })}, ${now.getMonth() + 1}/${now.getDate()}`;
                 }
 
                 // Format datetime string
-                let dateTimeDisplay = [rawDate, rawTime].filter(Boolean).join(', ');
+                let dateTimeDisplay = [formattedDate, rawTime].filter(Boolean).join(', ');
                 if (dateTimeDisplay && !dateTimeDisplay.includes('CDT') && !dateTimeDisplay.includes('CST')) {
                     dateTimeDisplay += ' CDT';
                 }
@@ -87,7 +120,7 @@ async function scrapeYahooScores() {
                     const nameEl = container.querySelector('._ys_159h2dm');
                     const name = nameEl ? nameEl.innerText.trim() : '';
                     
-                    // Extract record (e.g., "1-2") or score
+                    // Extract record (e.g., "1-2" or "1-2-1" for NFL) or score
                     const allSpans = Array.from(container.querySelectorAll('span'));
                     let record = '';
                     let score = '';
