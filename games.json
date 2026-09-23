@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CAR -2.5, O/U 42.5",
+    "odds": "CAR -2.5, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Panthers",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -11, O/U 46.5",
+    "odds": "KC -11.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "JAX -2.5, O/U 45.5",
+    "odds": "JAX -3, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
