@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 9/24, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -4.5, O/U 43.5",
+    "odds": "GB -4.5, O/U 43",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7.5, O/U 50.5",
+    "odds": "BUF -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -5.5, O/U 46",
+    "odds": "NE -5.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3, O/U 43.5",
+    "odds": "NO -3.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
