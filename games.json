@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7, O/U 50.5",
+    "odds": "BUF -7.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -11.5, O/U 46.5",
+    "odds": "KC -11, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYG -2.5, O/U 39.5",
+    "odds": "NYG -3, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "JAX -3, O/U 45.5",
+    "odds": "NE -2.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
