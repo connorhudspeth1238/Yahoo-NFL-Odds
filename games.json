@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -6.5, O/U 47.5",
+    "odds": "DET -6.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -8.5, O/U 48.5",
+    "odds": "SF -8.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -3.5, O/U 53",
+    "odds": "BAL -3.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3, O/U 43.5",
+    "odds": "NO -3.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
