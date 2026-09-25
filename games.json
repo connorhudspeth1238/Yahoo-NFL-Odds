@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 9/24, 7:15 PM CDT",
-    "status": "UPCOMING",
-    "odds": "GB -4.5, O/U 43",
+    "datetime": "Thu, 9/24 CDT",
+    "status": "LIVE",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
       "mascot": "",
       "rank": "",
-      "record": "0-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Packers",
       "mascot": "",
       "rank": "",
-      "record": "1-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
     }
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7, O/U 50.5",
+    "odds": "BUF -7.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -3.5, O/U 52.5",
+    "odds": "BAL -3.5, O/U 53",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
