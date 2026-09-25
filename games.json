@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -10.5, O/U 46",
+    "odds": "KC -10.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -7.5, O/U 46.5",
+    "odds": "NE -2.5, O/U 46",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 9/27, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -8.5, O/U 47.5",
+    "odds": "SF -8.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 9/27, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -2.5, O/U 44.5",
+    "odds": "LAR -2.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
