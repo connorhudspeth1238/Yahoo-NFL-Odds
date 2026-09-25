@@ -1,30 +1,8 @@
 [
   {
-    "datetime": "Thu, 9/24 CDT",
-    "status": "LIVE",
-    "odds": "Prime Video",
-    "tv": "",
-    "awayTeam": {
-      "name": "Falcons",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Packers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7.5, O/U 50.5",
+    "odds": "BUF -7, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -200,7 +178,7 @@
   {
     "datetime": "Sun, 9/27, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -5.5, O/U 45.5",
+    "odds": "NE -5.5, O/U 46",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -288,7 +266,7 @@
   {
     "datetime": "Sun, 9/27, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3.5, O/U 43.5",
+    "odds": "NO -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
@@ -310,7 +288,7 @@
   {
     "datetime": "Sun, 9/27, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -2.5, O/U 45",
+    "odds": "LAR -2.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -349,6 +327,28 @@
       "record": "1-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 9/24 CDT",
+    "status": "FINAL",
+    "odds": "ATL +4.5, O 43.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Falcons",
+      "mascot": "",
+      "rank": "",
+      "record": "1-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Packers",
+      "mascot": "",
+      "rank": "",
+      "record": "1-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
     }
   }
 ]
