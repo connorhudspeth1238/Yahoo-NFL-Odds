@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BUF -7.5, O/U 50.5",
     "tv": "",
@@ -22,9 +22,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "CAR -2.5, O/U 42.5",
+    "odds": "CAR -1.5, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Panthers",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "DET -6.5, O/U 48.5",
     "tv": "",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "HOU -1.5, O/U 42.5",
     "tv": "",
@@ -88,9 +88,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "KC -10, O/U 45.5",
+    "odds": "KC -9.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "NYG -2.5, O/U 37.5",
     "tv": "",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 42.5",
     "tv": "",
@@ -154,9 +154,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "SEA -8, O/U 40.5",
+    "odds": "SEA -8.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -176,9 +176,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 12:00 PM CDT",
+    "datetime": "",
     "status": "LIVE",
-    "odds": "NE -2.5, O/U 45.5",
+    "odds": "NE -2.5, O/U 46",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 3:05 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "SF -7.5, O/U 48.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 3:05 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "MIN -1.5, O/U 42.5",
     "tv": "",
@@ -242,9 +242,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 3:25 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "BAL -3.5, O/U 53",
+    "odds": "BAL -3.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 3:25 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "NO -3.5, O/U 43.5",
     "tv": "",
@@ -286,9 +286,9 @@
     }
   },
   {
-    "datetime": "Sun, 9/27, 7:20 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
-    "odds": "LAR -2.5, O/U 44",
+    "odds": "LAR -1.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "datetime": "Mon, 9/28, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "PHI -3.5, O/U 42.5",
     "tv": "",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "datetime": "Thu, 9/24 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "ATL +4.5, O 43.5",
     "tv": "",
