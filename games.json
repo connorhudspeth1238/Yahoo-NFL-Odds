@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Mon, 9/28 CDT",
-    "status": "UPCOMING",
-    "odds": "ABC/ESPN",
-    "tv": "",
-    "awayTeam": {
-      "name": "Eagles",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Bears",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 9/24 CDT",
     "status": "FINAL",
     "odds": "ATL +4.5, O 43.5",
@@ -349,6 +327,28 @@
       "record": "2-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Mon, 9/28 CDT",
+    "status": "FINAL",
+    "odds": "CHI +3.5, U 42.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Eagles",
+      "mascot": "",
+      "rank": "",
+      "record": "2-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Bears",
+      "mascot": "",
+      "rank": "",
+      "record": "2-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
     }
   }
 ]
