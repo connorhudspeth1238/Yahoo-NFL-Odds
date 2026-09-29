@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Mon, 9/28, 7:15 PM CDT",
+    "datetime": "Mon, 9/28 CDT",
     "status": "UPCOMING",
-    "odds": "PHI -3.5, O/U 42.5",
+    "odds": "ABC/ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
       "mascot": "",
       "rank": "",
-      "record": "2-0",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Bears",
       "mascot": "",
       "rank": "",
-      "record": "1-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
     }
