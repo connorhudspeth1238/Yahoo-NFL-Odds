@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARI -1.5, O/U 44.5",
+    "odds": "ARI -2, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -2.5, O/U 47.5",
+    "odds": "HOU -2.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sun, 10/4, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -3.5, O/U 50.5",
+    "odds": "DET -3.5, O/U 51",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -332,7 +332,7 @@
   {
     "datetime": "Mon, 10/5, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -2.5, O/U 48.5",
+    "odds": "NO -2.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
