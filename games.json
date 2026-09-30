@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "ARI -2, O/U 44.5",
+    "odds": "ARI -2.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -3.5, O/U 39.5",
+    "odds": "GB -3.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -11.5, O/U 43.5",
+    "odds": "BAL -11.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -2.5, O/U 48",
+    "odds": "NE -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 10/4, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -7, O/U 43",
+    "odds": "SEA -7, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
