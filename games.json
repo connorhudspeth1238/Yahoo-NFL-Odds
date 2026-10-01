@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 10/1, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 37.5",
+    "odds": "PIT -2.5, O/U 38",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/4, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "IND -3.5, O/U 47.5",
+    "odds": "IND -3.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -3, O/U 43.5",
+    "odds": "LAR -3.5, O/U 43",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -1.5, O/U 48.5",
+    "odds": "DAL -1.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
