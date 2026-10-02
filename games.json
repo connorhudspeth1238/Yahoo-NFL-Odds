@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 10/1, 7:15 PM CDT",
+    "datetime": "Thu, 10/1 CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 38",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
       "mascot": "",
       "rank": "",
-      "record": "2-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/ykFVQjCzWlwx9p3lv_afJw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PIT.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Browns",
       "mascot": "",
       "rank": "",
-      "record": "2-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/l19PoMSFqBpp8VsrUvMaGw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/Browns2025.png.cf.webp"
     }
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -1.5, O/U 48",
+    "odds": "DAL -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sun, 10/4, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -3.5, O/U 51",
+    "odds": "DET -3.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
