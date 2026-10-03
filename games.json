@@ -2,7 +2,7 @@
   {
     "datetime": "Sun, 10/4, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "IND -3.5, O/U 48.5",
+    "odds": "IND -4.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "BUF -6.5, O/U 48.5",
+    "odds": "BUF -7, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -3.5, O/U 43",
+    "odds": "LAR -3.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -3.5, O/U 38.5",
+    "odds": "GB -3, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -1.5, O/U 48",
+    "odds": "DAL -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Cowboys",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIN -10.5, O/U 39",
+    "odds": "MIN -10, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun, 10/4, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -2.5, O/U 47.5",
+    "odds": "SF -2.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 10/4, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -3.5, O/U 50.5",
+    "odds": "DET -3.5, O/U 51",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
