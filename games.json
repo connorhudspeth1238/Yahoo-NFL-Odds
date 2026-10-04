@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Sun, 10/4, 8:30 AM CDT",
+    "datetime": "Sun, 10/4 CDT",
     "status": "UPCOMING",
-    "odds": "IND -4.5, O/U 46.5",
+    "odds": "NFL Network",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
       "mascot": "",
       "rank": "",
-      "record": "1-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Commanders",
       "mascot": "",
       "rank": "",
-      "record": "1-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
     }
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "BUF -7, O/U 50.5",
+    "odds": "BUF -7, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/4, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -3.5, O/U 43",
+    "odds": "CHI -3.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/4, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIN -10, O/U 38.5",
+    "odds": "MIN -9.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
@@ -310,7 +310,7 @@
   {
     "datetime": "Mon, 10/5, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -1.5, O/U 48",
+    "odds": "NO -1.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
