@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Mon, 10/5 CDT",
-    "status": "UPCOMING",
-    "odds": "ESPN",
-    "tv": "",
-    "awayTeam": {
-      "name": "Falcons",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Saints",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/gsJbYQm7ziD8SU6t3iOicA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/Saints_dbg_500.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 10/1 CDT",
     "status": "FINAL",
     "odds": "CLE +3, O 38",
@@ -349,6 +327,28 @@
       "record": "2-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Mon, 10/5 CDT",
+    "status": "FINAL",
+    "odds": "ATL +1.5, O 47.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Falcons",
+      "mascot": "",
+      "rank": "",
+      "record": "2-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Saints",
+      "mascot": "",
+      "rank": "",
+      "record": "1-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/gsJbYQm7ziD8SU6t3iOicA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/Saints_dbg_500.png.cf.webp"
     }
   }
 ]
