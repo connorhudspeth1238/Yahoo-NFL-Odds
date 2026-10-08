@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 10/8, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8.5, O/U 48",
+    "odds": "DAL -8.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Buccaneers",
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/11, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -7.5, O/U 42",
+    "odds": "JAX -7.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -2, O/U 45.5",
+    "odds": "CHI -1.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -7.5, O/U 37.5",
+    "odds": "HOU -7.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIN -2, O/U 42.5",
+    "odds": "MIN -1.5, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAS -3.5, O/U 42.5",
+    "odds": "WAS -3.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 10/11, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -3.5, O/U 42",
+    "odds": "DEN -3.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 10/11, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -3, O/U 46",
+    "odds": "SEA -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "49ers",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 10/11, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "ATL -3.5, O/U 43.5",
+    "odds": "ATL -3.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
