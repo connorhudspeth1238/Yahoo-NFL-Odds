@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -6.5, O/U 43",
+    "odds": "CIN -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 44.5",
+    "odds": "PIT -2.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 10/11, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAS -4, O/U 41.5",
+    "odds": "WAS -4, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/11, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -3.5, O/U 42",
+    "odds": "DEN -3.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 10/11, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "ATL -3, O/U 43.5",
+    "odds": "ATL -3.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
