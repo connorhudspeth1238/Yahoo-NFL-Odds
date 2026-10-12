@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "Mon, 10/12, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LAR -3.5, O/U 54.5",
     "tv": "",
@@ -22,29 +22,29 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
-    "odds": "BAL +3.5, O 44",
+    "odds": "TB +9.5, U 49.5",
     "tv": "",
     "awayTeam": {
-      "name": "Ravens",
+      "name": "Buccaneers",
       "mascot": "",
       "rank": "",
-      "record": "3-1",
+      "record": "1-4",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/3AhGrNvLeaQdjxdbTkruHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/buccaneers.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Falcons",
+      "name": "Cowboys",
       "mascot": "",
       "rank": "",
-      "record": "2-2",
+      "record": "2-3",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "PHI +7.5, U 41.5",
     "tv": "",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "GB +1.5, U 46.5",
     "tv": "",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "HOU -6.5, U 37.5",
     "tv": "",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "O 44.5",
     "tv": "",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NE -3.5, O 45.5",
     "tv": "",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "MIN -2.5, U 41.5",
     "tv": "",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NYJ -2.5, U 38.5",
     "tv": "",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "PIT -3, O 41.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "NYG +3.5, O 41.5",
     "tv": "",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "DEN -3.5, U 42.5",
     "tv": "",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "DET -5, O 55",
     "tv": "",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "datetime": "Sun, 10/11 CDT",
+    "datetime": "",
     "status": "FINAL",
     "odds": "SF +3, O 46.5",
     "tv": "",
@@ -308,25 +308,25 @@
     }
   },
   {
-    "datetime": "Thu, 10/8 CDT",
+    "datetime": "",
     "status": "FINAL",
-    "odds": "TB +9.5, U 49.5",
+    "odds": "BAL +3.5, O 44",
     "tv": "",
     "awayTeam": {
-      "name": "Buccaneers",
+      "name": "Ravens",
       "mascot": "",
       "rank": "",
-      "record": "1-4",
+      "record": "4-1",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/3AhGrNvLeaQdjxdbTkruHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/buccaneers.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Cowboys",
+      "name": "Falcons",
       "mascot": "",
       "rank": "",
       "record": "2-3",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/jC92x49ZEDRJ4_RvalyiKw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_ATL.png.cf.webp"
     }
   }
 ]
