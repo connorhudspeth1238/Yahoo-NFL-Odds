@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -1.5, O/U 51.5",
+    "odds": "CHI -1.5, O/U 51",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7, O/U 43.5",
+    "odds": "IND -7, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/18, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -12.5, O/U 52",
+    "odds": "LAR -12.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
