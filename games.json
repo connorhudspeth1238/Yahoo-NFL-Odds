@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 10/15, 7:15 PM CDT",
+    "datetime": "Thu, 10/15 CDT",
     "status": "UPCOMING",
-    "odds": "SEA -2.5, O/U 40.5",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
       "mascot": "",
       "rank": "",
-      "record": "3-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Broncos",
       "mascot": "",
       "rank": "",
-      "record": "3-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
     }
