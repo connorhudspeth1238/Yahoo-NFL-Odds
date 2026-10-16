@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Thu, 10/15 CDT",
-    "status": "UPCOMING",
-    "odds": "Prime Video",
-    "tv": "",
-    "awayTeam": {
-      "name": "Seahawks",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Broncos",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 10/18, 8:30 AM CDT",
     "status": "UPCOMING",
     "odds": "JAX -2.5, O/U 42.5",
@@ -222,7 +200,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -8.5, O/U 41.5",
+    "odds": "KC -7.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -305,6 +283,28 @@
       "record": "5-0",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 10/15 CDT",
+    "status": "FINAL",
+    "odds": "DEN +2.5, U 40.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Seahawks",
+      "mascot": "",
+      "rank": "",
+      "record": "3-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Broncos",
+      "mascot": "",
+      "rank": "",
+      "record": "4-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
     }
   }
 ]
