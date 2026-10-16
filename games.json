@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -3, O/U 40",
+    "odds": "BAL -3, O/U 39.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 39.5",
+    "odds": "PIT -2.5, O/U 39",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -4.5, O/U 53.5",
+    "odds": "BUF -5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
@@ -266,7 +266,7 @@
   {
     "datetime": "Mon, 10/19, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -7.5, O/U 51.5",
+    "odds": "SF -7.5, O/U 52",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
