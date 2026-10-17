@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -1.5, O/U 46",
+    "odds": "NO -1.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Saints",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -5, O/U 53.5",
+    "odds": "BUF -4.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
@@ -266,7 +266,7 @@
   {
     "datetime": "Mon, 10/19, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -7.5, O/U 52",
+    "odds": "SF -7.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
