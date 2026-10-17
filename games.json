@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CAR -3.5, O/U 39",
+    "odds": "CAR -3, O/U 39",
     "tv": "",
     "awayTeam": {
       "name": "Panthers",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 39",
+    "odds": "PIT -2.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -7.5, O/U 41.5",
+    "odds": "KC -7.5, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -4.5, O/U 53.5",
+    "odds": "BUF -5.5, O/U 53.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
