@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Sun, 10/18, 8:30 AM CDT",
+    "datetime": "Sun, 10/18 CDT",
     "status": "UPCOMING",
-    "odds": "JAX -2.5, O/U 42.5",
+    "odds": "NFL Network",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
       "mascot": "",
       "rank": "",
-      "record": "1-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Jaguars",
       "mascot": "",
       "rank": "",
-      "record": "4-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/kHCRaP_q0PnpoWoedSz_PQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_JAX.png.cf.webp"
     }
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CHI -1.5, O/U 52.5",
+    "odds": "CHI -1.5, O/U 51.5",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -6.5, O/U 44.5",
+    "odds": "IND -6.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "LIVE",
-    "odds": "NE -7.5, O/U 43.5",
+    "odds": "NE -7.5, O/U 43",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -1.5, O/U 46",
+    "odds": "NO -1.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Saints",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -2.5, O/U 38.5",
+    "odds": "PIT -1.5, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
