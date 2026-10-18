@@ -2,7 +2,7 @@
   {
     "datetime": "Sun, 10/18, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -2.5, O/U 42.5",
+    "odds": "JAX -2.5, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 10/18, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -7, O/U 44.5",
+    "odds": "IND -6.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 10/18, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -7.5, O/U 41",
+    "odds": "KC -7.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
