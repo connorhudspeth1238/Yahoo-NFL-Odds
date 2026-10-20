@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Mon, 10/19 CDT",
-    "status": "UPCOMING",
-    "odds": "ABC/ESPN",
-    "tv": "",
-    "awayTeam": {
-      "name": "Commanders",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "49ers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 10/15 CDT",
     "status": "FINAL",
     "odds": "DEN +2.5, U 40.5",
@@ -305,6 +283,28 @@
       "record": "4-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Mon, 10/19 CDT",
+    "status": "FINAL",
+    "odds": "WAS +7.5, U 51.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Commanders",
+      "mascot": "",
+      "rank": "",
+      "record": "1-4-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "49ers",
+      "mascot": "",
+      "rank": "",
+      "record": "6-0",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
     }
   }
 ]
