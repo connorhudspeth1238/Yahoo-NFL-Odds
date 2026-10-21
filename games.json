@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -3.5, O/U 50.5",
+    "odds": "SF -3, O/U 50",
     "tv": "",
     "awayTeam": {
       "name": "49ers",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BAL -2.5, O/U 51",
+    "odds": "CIN -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -10, O/U 43.5",
+    "odds": "HOU -10.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
