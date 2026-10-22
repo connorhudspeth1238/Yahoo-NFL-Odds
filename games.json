@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "",
+    "datetime": "Thu, 10/22, 7:15 PM CDT",
     "status": "LIVE",
     "odds": "CHI -3, O/U 50.5",
     "tv": "",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 8:30 AM CDT",
     "status": "UPCOMING",
     "odds": "PIT -3.5, O/U 44.5",
     "tv": "",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "SF -2.5, O/U 49.5",
     "tv": "",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CLE -1.5, O/U 37.5",
     "tv": "",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "MIN -6.5, O/U 41.5",
     "tv": "",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NYJ -4.5, O/U 39.5",
     "tv": "",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "CAR -3, O/U 44.5",
     "tv": "",
@@ -154,9 +154,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -1.5, O/U 48.5",
+    "odds": "BAL -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
@@ -176,9 +176,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -10.5, O/U 43.5",
+    "odds": "HOU -10.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 3:05 PM CDT",
     "status": "UPCOMING",
     "odds": "DEN -4.5, O/U 43.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 3:25 PM CDT",
     "status": "UPCOMING",
     "odds": "DET -3, O/U 53.5",
     "tv": "",
@@ -242,9 +242,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -4.5, O/U 48.5",
+    "odds": "LAR -4, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 10/25, 7:20 PM CDT",
     "status": "UPCOMING",
     "odds": "SEA -2.5, O/U 42.5",
     "tv": "",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Mon, 10/26, 7:15 PM CDT",
     "status": "UPCOMING",
     "odds": "DAL -4.5, O/U 44.5",
     "tv": "",
