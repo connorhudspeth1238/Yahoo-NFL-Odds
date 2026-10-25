@@ -2,7 +2,7 @@
   {
     "datetime": "Sun, 10/25, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "PIT -3, O/U 44.5",
+    "odds": "PIT -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Steelers",
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -2.5, O/U 49.5",
+    "odds": "SF -2.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "49ers",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 10/25, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLE -2.5, O/U 37.5",
+    "odds": "CLE -2, O/U 37",
     "tv": "",
     "awayTeam": {
       "name": "Browns",
