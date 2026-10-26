@@ -1,24 +1,46 @@
 [
   {
-    "datetime": "Sun, 10/25 CDT",
+    "datetime": "Mon, 10/26, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "NBC/Peacock",
+    "odds": "DAL -4.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
-      "name": "Chiefs",
+      "name": "Cowboys",
       "mascot": "",
       "rank": "",
-      "record": "",
+      "record": "2-4",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Seahawks",
+      "name": "Eagles",
       "mascot": "",
       "rank": "",
-      "record": "",
+      "record": "2-4",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 10/22 CDT",
+    "status": "FINAL",
+    "odds": "CHI -3, O 50.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Patriots",
+      "mascot": "",
+      "rank": "",
+      "record": "4-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/tuAcWc.LD5rRhLAu7Fpf5w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NE.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Bears",
+      "mascot": "",
+      "rank": "",
+      "record": "5-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
     }
   },
   {
@@ -264,47 +286,25 @@
     }
   },
   {
-    "datetime": "Mon, 10/26, 7:15 PM CDT",
-    "status": "UPCOMING",
-    "odds": "DAL -4.5, O/U 44",
+    "datetime": "Sun, 10/25 CDT",
+    "status": "FINAL",
+    "odds": "SEA -3, U 43",
     "tv": "",
     "awayTeam": {
-      "name": "Cowboys",
+      "name": "Chiefs",
       "mascot": "",
       "rank": "",
-      "record": "2-4",
+      "record": "5-1",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Eagles",
-      "mascot": "",
-      "rank": "",
-      "record": "2-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Thu, 10/22 CDT",
-    "status": "FINAL",
-    "odds": "CHI -3, O 50.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Patriots",
+      "name": "Seahawks",
       "mascot": "",
       "rank": "",
       "record": "4-3",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/tuAcWc.LD5rRhLAu7Fpf5w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NE.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Bears",
-      "mascot": "",
-      "rank": "",
-      "record": "5-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
     }
   }
 ]
