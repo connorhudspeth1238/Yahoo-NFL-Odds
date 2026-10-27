@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Mon, 10/26 CDT",
-    "status": "LIVE",
-    "odds": "ABC/ESPN",
-    "tv": "",
-    "awayTeam": {
-      "name": "Cowboys",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Eagles",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 10/22 CDT",
     "status": "FINAL",
     "odds": "CHI -3, O 50.5",
@@ -305,6 +283,28 @@
       "record": "4-3",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Mon, 10/26 CDT",
+    "status": "FINAL",
+    "odds": "DAL -4.5, O 43.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Cowboys",
+      "mascot": "",
+      "rank": "",
+      "record": "3-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Eagles",
+      "mascot": "",
+      "rank": "",
+      "record": "2-5",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
     }
   }
 ]
