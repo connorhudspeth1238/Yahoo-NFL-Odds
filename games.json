@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TB -2.5, O/U 45",
+    "odds": "TB -2.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -10, O/U 46.5",
+    "odds": "JAX -9.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -288,7 +288,7 @@
   {
     "datetime": "Mon, 11/2, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "SEA -3.5, O/U 46.5",
+    "odds": "SEA -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
