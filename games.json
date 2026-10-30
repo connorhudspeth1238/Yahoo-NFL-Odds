@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 10/29, 7:15 PM CDT",
+    "datetime": "Thu, 10/29 CDT",
     "status": "UPCOMING",
-    "odds": "GB -3.5, O/U 47",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Panthers",
       "mascot": "",
       "rank": "",
-      "record": "3-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Packers",
       "mascot": "",
       "rank": "",
-      "record": "4-3",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
     }
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -3.5, O/U 46",
+    "odds": "DET -3.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "TB -2.5, O/U 44.5",
+    "odds": "TB -2.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
