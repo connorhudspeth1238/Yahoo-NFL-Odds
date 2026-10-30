@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Thu, 10/29 CDT",
-    "status": "UPCOMING",
-    "odds": "Prime Video",
-    "tv": "",
-    "awayTeam": {
-      "name": "Panthers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Packers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "BUF -3, O/U 54.5",
@@ -46,7 +24,7 @@
   {
     "datetime": "Sun, 11/1, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -11.5, O/U 46.5",
+    "odds": "CIN -12.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -266,7 +244,7 @@
   {
     "datetime": "Sun, 11/1, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAS -6, O/U 40.5",
+    "odds": "WAS -6.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
@@ -305,6 +283,28 @@
       "record": "4-3",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/uCMG77IX_SooHsWcFU3Ceg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SEA.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 10/29 CDT",
+    "status": "FINAL",
+    "odds": "GB -3.5, U 47.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Panthers",
+      "mascot": "",
+      "rank": "",
+      "record": "3-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/TSQWAt0RiCdyLwek5hQvCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CAR.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Packers",
+      "mascot": "",
+      "rank": "",
+      "record": "5-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
     }
   }
 ]
