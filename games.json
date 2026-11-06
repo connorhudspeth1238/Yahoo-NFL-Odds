@@ -2,7 +2,7 @@
   {
     "datetime": "Sun, 11/8, 8:30 AM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -3, O/U 52.5",
+    "odds": "CIN -3.5, O/U 52.5",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -10, O/U 47.5",
+    "odds": "KC -9.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -7, O/U 50.5",
+    "odds": "DET -6.5, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -4.5, O/U 48.5",
+    "odds": "LAR -4.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 11/8, 3:25 PM CDT",
     "status": "LIVE",
-    "odds": "NE -3, O/U 44.5",
+    "odds": "NE -3, O/U 45",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
