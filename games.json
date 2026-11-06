@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -6.5, O/U 50.5",
+    "odds": "DET -6.5, O/U 50",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3, O/U 42.5",
+    "odds": "NO -3.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Browns",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYG -3.5, O/U 38.5",
+    "odds": "NYG -3, O/U 38.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -4.5, O/U 48",
+    "odds": "LAR -4.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Rams",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 11/8, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -5.5, O/U 40.5",
+    "odds": "HOU -6, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 11/8, 3:25 PM CDT",
     "status": "LIVE",
-    "odds": "NE -3, O/U 45",
+    "odds": "NE -3, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
@@ -288,7 +288,7 @@
   {
     "datetime": "Mon, 11/9, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -3, O/U 44.5",
+    "odds": "BUF -3, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
