@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -9, O/U 47.5",
+    "odds": "KC -9.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -6.5, O/U 50",
+    "odds": "DET -6.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Lions",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 11/8, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -3.5, O/U 42.5",
+    "odds": "NO -3, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Browns",
