@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 11/12, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYG -2.5, O/U 41.5",
+    "odds": "NYG -2.5, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
@@ -46,7 +46,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -3.5, O/U 45.5",
+    "odds": "KC -3.5, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -4.5, O/U 40.5",
+    "odds": "HOU -4.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -3.5, O/U 42.5",
+    "odds": "GB -3, O/U 42",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
