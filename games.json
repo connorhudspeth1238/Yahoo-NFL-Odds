@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "",
+    "datetime": "Thu, 11/12, 7:15 PM CDT",
     "status": "UPCOMING",
     "odds": "NYG -2.5, O/U 41.5",
     "tv": "",
@@ -22,9 +22,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 8:30 AM CDT",
     "status": "LIVE",
-    "odds": "DET -2.5, O/U 51.5",
+    "odds": "DET -2.5, O/U 51",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "KC -3.5, O/U 45.5",
     "tv": "",
@@ -66,9 +66,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -4.5, O/U 39.5",
+    "odds": "HOU -4.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -88,9 +88,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -3.5, O/U 41.5",
+    "odds": "GB -3.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "JAX -10.5, O/U 46.5",
     "tv": "",
@@ -132,9 +132,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -3.5, O/U 38.5",
+    "odds": "IND -3.5, O/U 38",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "NO -2.5, O/U 48.5",
     "tv": "",
@@ -176,9 +176,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -8.5, O/U 50.5",
+    "odds": "BUF -8, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 3:05 PM CDT",
     "status": "UPCOMING",
     "odds": "SEA -6.5, O/U 40.5",
     "tv": "",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 3:05 PM CDT",
     "status": "UPCOMING",
     "odds": "LAR -9.5, O/U 39.5",
     "tv": "",
@@ -242,9 +242,9 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -4, O/U 55.5",
+    "odds": "SF -4.5, O/U 55.5",
     "tv": "",
     "awayTeam": {
       "name": "49ers",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Sun, 11/15, 7:20 PM CDT",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 49.5",
     "tv": "",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "datetime": "",
+    "datetime": "Mon, 11/16, 7:15 PM CDT",
     "status": "UPCOMING",
     "odds": "BAL -4.5, O/U 38.5",
     "tv": "",
