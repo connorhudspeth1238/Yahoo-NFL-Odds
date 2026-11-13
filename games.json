@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 11/12, 7:15 PM CDT",
+    "datetime": "Thu, 11/12 CDT",
     "status": "UPCOMING",
-    "odds": "NYG -2, O/U 40.5",
+    "odds": "Prime Video",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
       "mascot": "",
       "rank": "",
-      "record": "2-5-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Giants",
       "mascot": "",
       "rank": "",
-      "record": "5-2-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/6sTwCtSNlM_TNIjC41uFRQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/NYG-2025dbg.png.cf.webp"
     }
@@ -24,7 +24,7 @@
   {
     "datetime": "Sun, 11/15, 8:30 AM CDT",
     "status": "LIVE",
-    "odds": "DET -2.5, O/U 51",
+    "odds": "DET -2.5, O/U 50",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "IND -3.5, O/U 37.5",
+    "odds": "IND -3.5, O/U 38",
     "tv": "",
     "awayTeam": {
       "name": "Dolphins",
