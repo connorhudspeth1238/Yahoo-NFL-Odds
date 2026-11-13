@@ -2,7 +2,7 @@
   {
     "datetime": "Sun, 11/15, 8:30 AM CDT",
     "status": "LIVE",
-    "odds": "DET -2.5, O/U 50",
+    "odds": "DET -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "GB -3, O/U 42",
+    "odds": "GB -3, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Vikings",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7.5, O/U 50.5",
+    "odds": "BUF -8, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
