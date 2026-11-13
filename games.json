@@ -1,30 +1,8 @@
 [
   {
-    "datetime": "Thu, 11/12 CDT",
-    "status": "UPCOMING",
-    "odds": "Prime Video",
-    "tv": "",
-    "awayTeam": {
-      "name": "Commanders",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Giants",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/6sTwCtSNlM_TNIjC41uFRQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/NYG-2025dbg.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Sun, 11/15, 8:30 AM CDT",
+    "datetime": "",
     "status": "LIVE",
-    "odds": "DET -2.5, O/U 50",
+    "odds": "DET -2.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -44,7 +22,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "KC -3.5, O/U 47.5",
     "tv": "",
@@ -66,7 +44,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "HOU -4.5, O/U 40.5",
     "tv": "",
@@ -88,7 +66,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "GB -3, O/U 42",
     "tv": "",
@@ -110,7 +88,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "JAX -10.5, O/U 46.5",
     "tv": "",
@@ -132,7 +110,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "IND -3.5, O/U 38",
     "tv": "",
@@ -154,7 +132,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "NO -2.5, O/U 48.5",
     "tv": "",
@@ -176,7 +154,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 12:00 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BUF -8, O/U 50.5",
     "tv": "",
@@ -198,7 +176,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 3:05 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "SEA -6.5, O/U 40.5",
     "tv": "",
@@ -220,7 +198,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 3:05 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "LAR -9.5, O/U 39.5",
     "tv": "",
@@ -242,7 +220,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 3:25 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "SF -4.5, O/U 56",
     "tv": "",
@@ -264,7 +242,7 @@
     }
   },
   {
-    "datetime": "Sun, 11/15, 7:20 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "CIN -3.5, O/U 49.5",
     "tv": "",
@@ -286,7 +264,7 @@
     }
   },
   {
-    "datetime": "Mon, 11/16, 7:15 PM CDT",
+    "datetime": "",
     "status": "UPCOMING",
     "odds": "BAL -4.5, O/U 38.5",
     "tv": "",
@@ -305,6 +283,28 @@
       "record": "4-5",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "",
+    "status": "FINAL",
+    "odds": "WAS +1.5, O 40.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Commanders",
+      "mascot": "",
+      "rank": "",
+      "record": "3-5-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Giants",
+      "mascot": "",
+      "rank": "",
+      "record": "5-3-1",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/6sTwCtSNlM_TNIjC41uFRQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/202509/500px/NYG-2025dbg.png.cf.webp"
     }
   }
 ]
