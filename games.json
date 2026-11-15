@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Sun, 11/15, 8:30 AM CDT",
-    "status": "LIVE",
-    "odds": "DET -2.5, O/U 49.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Patriots",
-      "mascot": "",
-      "rank": "",
-      "record": "5-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/tuAcWc.LD5rRhLAu7Fpf5w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NE.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Lions",
-      "mascot": "",
-      "rank": "",
-      "record": "6-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "KC -3.5, O/U 47.5",
@@ -46,7 +24,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -4.5, O/U 40.5",
+    "odds": "HOU -3.5, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Texans",
@@ -90,7 +68,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -10.5, O/U 46.5",
+    "odds": "JAX -10.5, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Jaguars",
@@ -134,7 +112,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NO -2, O/U 48.5",
+    "odds": "CAR -1.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Panthers",
@@ -156,7 +134,7 @@
   {
     "datetime": "Sun, 11/15, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -7.5, O/U 51",
+    "odds": "BUF -8, O/U 50.5",
     "tv": "",
     "awayTeam": {
       "name": "Bills",
@@ -261,6 +239,28 @@
       "record": "6-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/jzuzlBzi9p.roWSj9nB.Zg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CIN.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Sun, 11/15 CDT",
+    "status": "FINAL",
+    "odds": "DET -2.5, U 51",
+    "tv": "",
+    "awayTeam": {
+      "name": "Patriots",
+      "mascot": "",
+      "rank": "",
+      "record": "5-5",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/tuAcWc.LD5rRhLAu7Fpf5w--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NE.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Lions",
+      "mascot": "",
+      "rank": "",
+      "record": "7-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
     }
   },
   {
