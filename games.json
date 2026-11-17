@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Mon, 11/16 CDT",
-    "status": "UPCOMING",
-    "odds": "ESPN",
-    "tv": "",
-    "awayTeam": {
-      "name": "Chargers",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/JP83BPz0bBa81h1pSnRD2g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/chargers.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Ravens",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Thu, 11/12 CDT",
     "status": "FINAL",
     "odds": "WAS +1.5, O 40.5",
@@ -305,6 +283,28 @@
       "record": "7-2",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/jzuzlBzi9p.roWSj9nB.Zg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CIN.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Mon, 11/16 CDT",
+    "status": "FINAL",
+    "odds": "LAC +4.5, O 39.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Chargers",
+      "mascot": "",
+      "rank": "",
+      "record": "1-8",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/JP83BPz0bBa81h1pSnRD2g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/chargers.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Ravens",
+      "mascot": "",
+      "rank": "",
+      "record": "4-6",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
     }
   }
 ]
