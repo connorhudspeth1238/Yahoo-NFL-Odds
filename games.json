@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Mon, 11/16, 7:15 PM CDT",
+    "datetime": "Mon, 11/16 CDT",
     "status": "UPCOMING",
-    "odds": "BAL -4.5, O/U 39.5",
+    "odds": "ESPN",
     "tv": "",
     "awayTeam": {
       "name": "Chargers",
       "mascot": "",
       "rank": "",
-      "record": "0-8",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/JP83BPz0bBa81h1pSnRD2g--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20200508/500x500/chargers.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Ravens",
       "mascot": "",
       "rank": "",
-      "record": "4-5",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/pZxGxXWy5xMMwOe.Md5EHg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BAL.png.cf.webp"
     }
