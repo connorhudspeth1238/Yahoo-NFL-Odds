@@ -2,7 +2,7 @@
   {
     "datetime": "Thu, 11/19, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -12.5, O/U 43.5",
+    "odds": "HOU -12.5, O/U 44",
     "tv": "",
     "awayTeam": {
       "name": "Colts",
@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8, O/U 55",
+    "odds": "DAL -8, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -15.5, O/U 40.5",
+    "odds": "KC -16, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -266,7 +266,7 @@
   {
     "datetime": "Mon, 11/23, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -6.5, O/U 54.5",
+    "odds": "CIN -6.5, O/U 54",
     "tv": "",
     "awayTeam": {
       "name": "Bengals",
