@@ -1,27 +1,5 @@
 [
   {
-    "datetime": "Thu, 11/19 CDT",
-    "status": "UPCOMING",
-    "odds": "Prime Video",
-    "tv": "",
-    "awayTeam": {
-      "name": "Colts",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Texans",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
     "odds": "BUF -16.5, O/U 44.5",
@@ -68,7 +46,7 @@
   {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8, O/U 55",
+    "odds": "DAL -8, O/U 54.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -178,7 +156,7 @@
   {
     "datetime": "Sun, 11/22, 3:05 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAC -3, O/U 42",
+    "odds": "LAC -3, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -283,6 +261,28 @@
       "record": "3-5-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 11/19 CDT",
+    "status": "FINAL",
+    "odds": "HOU -12.5, U 44.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Colts",
+      "mascot": "",
+      "rank": "",
+      "record": "3-8",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Texans",
+      "mascot": "",
+      "rank": "",
+      "record": "4-6",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
     }
   }
 ]
