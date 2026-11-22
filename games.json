@@ -68,7 +68,7 @@
   {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DET -4.5, O/U 47.5",
+    "odds": "DET -3.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Buccaneers",
@@ -90,7 +90,7 @@
   {
     "datetime": "Sun, 11/22, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "KC -16, O/U 40.5",
+    "odds": "KC -15.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Cardinals",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 11/22, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -10.5, O/U 40.5",
+    "odds": "DEN -10.5, O/U 41",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 11/22, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -6, O/U 46.5",
+    "odds": "JAX -6, O/U 45.5",
     "tv": "",
     "awayTeam": {
       "name": "Jaguars",
