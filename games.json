@@ -1,24 +1,46 @@
 [
   {
-    "datetime": "Sun, 11/22 CDT",
+    "datetime": "Mon, 11/23, 7:15 PM CDT",
     "status": "UPCOMING",
-    "odds": "NBC/Peacock",
+    "odds": "CIN -6, O/U 54.5",
     "tv": "",
     "awayTeam": {
-      "name": "Vikings",
+      "name": "Bengals",
       "mascot": "",
       "rank": "",
-      "record": "",
+      "record": "7-2",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/8M1jfDpOUJZh6C9ruuP_wQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_MIN.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/jzuzlBzi9p.roWSj9nB.Zg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CIN.png.cf.webp"
     },
     "homeTeam": {
-      "name": "49ers",
+      "name": "Commanders",
       "mascot": "",
       "rank": "",
-      "record": "",
+      "record": "3-5-1",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 11/19 CDT",
+    "status": "FINAL",
+    "odds": "HOU -12.5, U 44.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Colts",
+      "mascot": "",
+      "rank": "",
+      "record": "3-8",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Texans",
+      "mascot": "",
+      "rank": "",
+      "record": "4-6",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
     }
   },
   {
@@ -242,47 +264,25 @@
     }
   },
   {
-    "datetime": "Mon, 11/23, 7:15 PM CDT",
-    "status": "UPCOMING",
-    "odds": "CIN -6, O/U 54.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Bengals",
-      "mascot": "",
-      "rank": "",
-      "record": "7-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/jzuzlBzi9p.roWSj9nB.Zg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_CIN.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Commanders",
-      "mascot": "",
-      "rank": "",
-      "record": "3-5-1",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/MToqqPCARnkDGbb8iVMESg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20220202/500x500/washington.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Thu, 11/19 CDT",
+    "datetime": "Sun, 11/22 CDT",
     "status": "FINAL",
-    "odds": "HOU -12.5, U 44.5",
+    "odds": "SF -4.5, U 45.5",
     "tv": "",
     "awayTeam": {
-      "name": "Colts",
+      "name": "Vikings",
       "mascot": "",
       "rank": "",
-      "record": "3-8",
+      "record": "7-3",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/D_3qIw3gbHsA0JP.LfUNwA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20250916/500px/ind_blue.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/8M1jfDpOUJZh6C9ruuP_wQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_MIN.png.cf.webp"
     },
     "homeTeam": {
-      "name": "Texans",
+      "name": "49ers",
       "mascot": "",
       "rank": "",
-      "record": "4-6",
+      "record": "9-1",
       "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/Od26XTxaiJZNV.gICWhyCA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_HOU.png.cf.webp"
+      "logo": "https://s.yimg.com/iu/api/res/1.2/LF5LzOludA6Uc7nIGTg1Yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_SF.png.cf.webp"
     }
   }
 ]
