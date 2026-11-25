@@ -2,7 +2,7 @@
   {
     "datetime": "Wed, 11/25, 7:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "LAR -2.5, O/U 44.5",
+    "odds": "LAR -2.5, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 11/26, 3:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8.5, O/U 48.5",
+    "odds": "DAL -8.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
@@ -68,7 +68,7 @@
   {
     "datetime": "Thu, 11/26, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -3, O/U 47",
+    "odds": "BUF -3, O/U 46.5",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -178,7 +178,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIN -6.5, O/U 41.5",
+    "odds": "MIN -7, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
