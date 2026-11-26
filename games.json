@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Wed, 11/25, 7:00 PM CDT",
+    "datetime": "Wed, 11/25 CDT",
     "status": "UPCOMING",
-    "odds": "LAR -2.5, O/U 43.5",
+    "odds": "Netflix",
     "tv": "",
     "awayTeam": {
       "name": "Packers",
       "mascot": "",
       "rank": "",
-      "record": "6-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/U3VlBXY9ijlbZ8KWLKHMzg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_GB.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Rams",
       "mascot": "",
       "rank": "",
-      "record": "6-4",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/nmMTytbmGAmFam2gChV7fQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20260413/500px/Rams.png.cf.webp"
     }
@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 11/26, 3:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8.5, O/U 47.5",
+    "odds": "DAL -8.5, O/U 48",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
@@ -90,7 +90,7 @@
   {
     "datetime": "Fri, 11/27, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -3.5, O/U 36.5",
+    "odds": "DEN -4, O/U 36.5",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -112,7 +112,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -10, O/U 50.5",
+    "odds": "CIN -10, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Saints",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYJ -3.5, O/U 40.5",
+    "odds": "NYJ -4.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -200,7 +200,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "JAX -14.5, O/U 48.5",
+    "odds": "JAX -14.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Titans",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "HOU -7, O/U 47.5",
+    "odds": "HOU -6.5, O/U 47.5",
     "tv": "",
     "awayTeam": {
       "name": "Ravens",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun, 11/29, 3:05 PM CDT",
     "status": "LIVE",
-    "odds": "LAC -1.5, O/U 35.5",
+    "odds": "NE -1.5, O/U 35.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 11/29, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -3, O/U 45.5",
+    "odds": "SF -2.5, O/U 44.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -310,7 +310,7 @@
   {
     "datetime": "Sun, 11/29, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLE -4.5, O/U 40.5",
+    "odds": "CLE -4.5, O/U 40",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
