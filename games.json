@@ -1,14 +1,14 @@
 [
   {
-    "datetime": "Thu, 11/26, 12:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "CHI -1.5, O/U 55.5",
+    "datetime": "Thu, 11/26 CDT",
+    "status": "LIVE",
+    "odds": "CBS/Paramount+",
     "tv": "",
     "awayTeam": {
       "name": "Bears",
       "mascot": "",
       "rank": "",
-      "record": "8-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
     },
@@ -16,7 +16,7 @@
       "name": "Lions",
       "mascot": "",
       "rank": "",
-      "record": "8-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
     }
@@ -24,7 +24,7 @@
   {
     "datetime": "Thu, 11/26, 3:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8.5, O/U 48.5",
+    "odds": "DAL -8.5, O/U 49.5",
     "tv": "",
     "awayTeam": {
       "name": "Eagles",
@@ -46,7 +46,7 @@
   {
     "datetime": "Thu, 11/26, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "BUF -3, O/U 45.5",
+    "odds": "BUF -3, O/U 46",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
@@ -68,7 +68,7 @@
   {
     "datetime": "Fri, 11/27, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -3.5, O/U 36.5",
+    "odds": "DEN -4.5, O/U 37",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -134,7 +134,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYJ -4.5, O/U 40.5",
+    "odds": "NYJ -5.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Jets",
@@ -156,7 +156,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "MIN -7, O/U 41.5",
+    "odds": "MIN -6.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Falcons",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 11/29, 3:05 PM CDT",
     "status": "LIVE",
-    "odds": "NE -1.5, O/U 35.5",
+    "odds": "NE -2, O/U 35.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -244,7 +244,7 @@
   {
     "datetime": "Sun, 11/29, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "WAS -7, O/U 41.5",
+    "odds": "WAS -6.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Commanders",
@@ -266,7 +266,7 @@
   {
     "datetime": "Sun, 11/29, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -2.5, O/U 44.5",
+    "odds": "SF -3, O/U 43.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -288,7 +288,7 @@
   {
     "datetime": "Sun, 11/29, 7:20 PM CDT",
     "status": "UPCOMING",
-    "odds": "CLE -4.5, O/U 40",
+    "odds": "CLE -4.5, O/U 40.5",
     "tv": "",
     "awayTeam": {
       "name": "Raiders",
