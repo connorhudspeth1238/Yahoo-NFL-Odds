@@ -1,58 +1,14 @@
 [
   {
     "datetime": "Thu, 11/26 CDT",
-    "status": "LIVE",
-    "odds": "CBS/Paramount+",
-    "tv": "",
-    "awayTeam": {
-      "name": "Bears",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Lions",
-      "mascot": "",
-      "rank": "",
-      "record": "",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Thu, 11/26, 3:30 PM CDT",
     "status": "UPCOMING",
-    "odds": "DAL -8.5, O/U 49.5",
-    "tv": "",
-    "awayTeam": {
-      "name": "Eagles",
-      "mascot": "",
-      "rank": "",
-      "record": "3-7",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Cowboys",
-      "mascot": "",
-      "rank": "",
-      "record": "5-6",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
-    }
-  },
-  {
-    "datetime": "Thu, 11/26, 7:20 PM CDT",
-    "status": "UPCOMING",
-    "odds": "BUF -3, O/U 46",
+    "odds": "NBC/Peacock",
     "tv": "",
     "awayTeam": {
       "name": "Chiefs",
       "mascot": "",
       "rank": "",
-      "record": "8-2",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/5OD39iCD9jglu7jAm5bGRg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC.png.cf.webp"
     },
@@ -60,15 +16,59 @@
       "name": "Bills",
       "mascot": "",
       "rank": "",
-      "record": "9-1",
+      "record": "",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3ARwJ.lDG9BpEALt3jc4yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BUF.png.cf.webp"
     }
   },
   {
+    "datetime": "Thu, 11/26 CDT",
+    "status": "FINAL",
+    "odds": "CHI -1.5, O 56.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Bears",
+      "mascot": "",
+      "rank": "",
+      "record": "9-2",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/.P3g76UgZZugvDUliOkNUw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/20230905/500px/bears_new.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Lions",
+      "mascot": "",
+      "rank": "",
+      "record": "8-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/5m3Lc5ZKwGsx.fXZ3hHJdQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DET.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Thu, 11/26 CDT",
+    "status": "FINAL",
+    "odds": "PHI +8.5, O 49.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Eagles",
+      "mascot": "",
+      "rank": "",
+      "record": "4-7",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/oEdFw3MpYaEzR3jrtXt5Pg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PHI.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Cowboys",
+      "mascot": "",
+      "rank": "",
+      "record": "5-7",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/f7dXxR_zNV1nfb6ws9WjOQ--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DAL.png.cf.webp"
+    }
+  },
+  {
     "datetime": "Fri, 11/27, 2:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "DEN -4.5, O/U 37",
+    "odds": "DEN -4.5, O/U 36.5",
     "tv": "",
     "awayTeam": {
       "name": "Broncos",
@@ -222,7 +222,7 @@
   {
     "datetime": "Sun, 11/29, 3:05 PM CDT",
     "status": "LIVE",
-    "odds": "NE -2, O/U 35.5",
+    "odds": "NE -2.5, O/U 35.5",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
