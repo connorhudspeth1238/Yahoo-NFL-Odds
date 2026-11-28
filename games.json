@@ -1,30 +1,8 @@
 [
   {
-    "datetime": "Fri, 11/27, 2:00 PM CDT",
-    "status": "UPCOMING",
-    "odds": "DEN -4.5, O/U 37",
-    "tv": "",
-    "awayTeam": {
-      "name": "Broncos",
-      "mascot": "",
-      "rank": "",
-      "record": "8-2",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
-    },
-    "homeTeam": {
-      "name": "Steelers",
-      "mascot": "",
-      "rank": "",
-      "record": "6-4",
-      "score": "",
-      "logo": "https://s.yimg.com/iu/api/res/1.2/ykFVQjCzWlwx9p3lv_afJw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PIT.png.cf.webp"
-    }
-  },
-  {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "CIN -10, O/U 48.5",
+    "odds": "CIN -9.5, O/U 48.5",
     "tv": "",
     "awayTeam": {
       "name": "Saints",
@@ -46,7 +24,7 @@
   {
     "datetime": "Sun, 11/29, 12:00 PM CDT",
     "status": "UPCOMING",
-    "odds": "NYG -6, O/U 41.5",
+    "odds": "NYG -5.5, O/U 41.5",
     "tv": "",
     "awayTeam": {
       "name": "Giants",
@@ -156,7 +134,7 @@
   {
     "datetime": "Sun, 11/29, 3:05 PM CDT",
     "status": "LIVE",
-    "odds": "NE -2.5, O/U 35.5",
+    "odds": "NE -3, O/U 35",
     "tv": "",
     "awayTeam": {
       "name": "Patriots",
@@ -200,7 +178,7 @@
   {
     "datetime": "Sun, 11/29, 3:25 PM CDT",
     "status": "UPCOMING",
-    "odds": "SF -3, O/U 43.5",
+    "odds": "SEA -1.5, O/U 42.5",
     "tv": "",
     "awayTeam": {
       "name": "Seahawks",
@@ -349,6 +327,28 @@
       "record": "10-1",
       "score": "",
       "logo": "https://s.yimg.com/iu/api/res/1.2/3ARwJ.lDG9BpEALt3jc4yg--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_BUF.png.cf.webp"
+    }
+  },
+  {
+    "datetime": "Fri, 11/27 CDT",
+    "status": "FINAL",
+    "odds": "PIT +4.5, U 36.5",
+    "tv": "",
+    "awayTeam": {
+      "name": "Broncos",
+      "mascot": "",
+      "rank": "",
+      "record": "8-3",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/rOwSYRtSKvInIP2LJMcIWA--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_DEN.png.cf.webp"
+    },
+    "homeTeam": {
+      "name": "Steelers",
+      "mascot": "",
+      "rank": "",
+      "record": "7-4",
+      "score": "",
+      "logo": "https://s.yimg.com/iu/api/res/1.2/ykFVQjCzWlwx9p3lv_afJw--~B/YXBwaWQ9c2hhcmVkO2ZpPWZpbGw7cT03NTtoPTgwO3c9ODA-/https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_PIT.png.cf.webp"
     }
   }
 ]
